@@ -7,5 +7,6 @@
 
 - dsl : 领域特性语言
 - MarkDown: Markdown语法的相关教程
+- Training: 技术分享、培训
 - 常用工具： 整理开发中常用的工具，帮助提高效率。例如Beyong Compare等
 - 资源网站：整理有干货的资源网站
